@@ -20,29 +20,21 @@ This repository contains my solution for the Rocketseat challenge.
 
 1. Clone this repository:
 
-```git clone https://github.com/yourusername/repository-name.git
-
-```
+`git clone https://github.com/yourusername/repository-name.git`
 
 2. Navigate to the project directory:
 
-```cd repository-name
-
-```
+`cd repository-name`
 
 3. Install dependencies:
 
-```npm install
-
-```
+`npm install`
 
 ### Running the Project
 
 Start the development server:
 
-```npm run dev
-
-```
+`npm run dev`
 
 The application will be available at `http://localhost:3000`
 
