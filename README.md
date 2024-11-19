@@ -4,10 +4,8 @@ This repository contains my solution for the Rocketseat challenge.
 
 ## 🚀 Technologies
 
-- Node.js
 - React
 - TypeScript
-- [Add other technologies used]
 
 ## 💻 Getting Started
 
